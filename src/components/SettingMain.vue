@@ -109,6 +109,14 @@
           placeholder="USA"
         />
       </div>
+      <div class="w-full flex mobile:justify-end">
+        <button
+          class="bg-[#1814F3] text-white text-[18px] rounded-[15px] w-screen mobile:w-[190px] h-[50px]"
+          type="submit"
+        >
+          Save
+        </button>
+      </div>
     </form>
   </div>
 </template>

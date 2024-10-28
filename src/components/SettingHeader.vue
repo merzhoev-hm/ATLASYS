@@ -2,7 +2,7 @@
 
 <template>
   <ul
-    class="border-b flex justify-around mobile:gap-[72px] font-semibold text-[13px] mobile:text-base text-[#718EBF] relative"
+    class="border-b mobile:justify-normal flex justify-around mobile:gap-[72px] font-semibold text-[13px] mobile:text-base text-[#718EBF] relative"
   >
     <li class="pb-2 text-[#1814F3] active hover:text-[#1814F3]">
       <a href="#">Edit Profile</a>

@@ -2,7 +2,7 @@
 
 <template>
   <div
-    class="bg-white min-w-screen min-h-[100px] flex flex-col mobile:flex-row items-center border-b justify-between p-6 mobile:py-0 mobile:px-10 mobile:max-w-[1190px]"
+    class="bg-white min-w-screen min-h-[100px] flex flex-col gap-2 mobile:gap-0 mobile:flex-row items-center border-b justify-between p-6 mobile:py-0 mobile:px-10 mobile:max-w-[1190px]"
   >
     <h2 class="font-semibold text-[20px] mobile:text-[28px] text-[#343C6A]">
       Setting
