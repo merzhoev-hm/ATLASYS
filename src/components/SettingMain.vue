@@ -14,7 +14,10 @@
         />
       </div>
     </div>
-    <form class="flex flex-wrap gap-[29px] text-[#232323] text-[16px]">
+    <form
+      @submit.prevent
+      class="flex flex-wrap gap-[29px] text-[#232323] text-[16px]"
+    >
       <div class="flex flex-col">
         <label for="name">Your Name</label>
         <input
@@ -109,7 +112,7 @@
       </div>
       <div class="w-full flex mobile:justify-end">
         <button
-          class="bg-[#1814F3] text-white text-[18px] rounded-[15px] w-screen mobile:w-[190px] h-[50px]"
+          class="bg-[#1814F3] text-white text-[18px] rounded-[15px] w-screen mobile:w-[190px] h-[50px] hover:bg-[#1814F3]/80"
           type="submit"
         >
           Save
