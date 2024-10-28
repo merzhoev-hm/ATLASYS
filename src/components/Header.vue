@@ -2,9 +2,9 @@
 
 <template>
   <div
-    class="bg-white min-w-screen min-h-[100px] flex flex-col gap-2 mobile:gap-0 mobile:flex-row items-center border-b justify-between p-6 mobile:py-0 mobile:px-10 mobile:max-w-[1190px]"
+    class="bg-white min-w-screen min-h-[100px] flex flex-col gap-4 mobile:gap-0 mobile:flex-row items-center border-b justify-between p-6 mobile:py-0 mobile:px-10 mobile:max-w-[1190px]"
   >
-    <div class="w-screen flex justify-between">
+    <div class="w-screen flex justify-between items-center">
       <button type="button" class="menu-icon block mobile:hidden">
         <div class="menu-icon__line"></div>
       </button>
@@ -51,8 +51,8 @@
 </template>
 <style scoped>
 .menu-icon {
-  width: 40px;
-  height: 30px;
+  width: 18px;
+  height: 14px;
   position: relative;
 }
 
@@ -82,8 +82,8 @@
 .menu-icon::before {
   display: block;
   width: 100%;
-  height: 3px;
-  background-color: #000;
+  height: 2px;
+  background-color: #343c6a;
 }
 
 /* .menu-icon__active .menu-icon__line {
