@@ -4,7 +4,7 @@
   <div
     class="bg-white min-w-screen min-h-[100px] flex flex-col gap-4 mobile:gap-0 mobile:flex-row items-center border-b justify-between p-6 mobile:py-0 mobile:px-10 mobile:max-w-[1190px]"
   >
-    <div class="w-screen flex justify-between items-center">
+    <div class="w-screen mobile:w-auto flex justify-between items-center">
       <button type="button" class="menu-icon block mobile:hidden">
         <div class="menu-icon__line"></div>
       </button>
