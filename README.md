@@ -1,5 +1,8 @@
 # ССЫЛКА на деплой
 https://radiant-brigadeiros-86ee4d.netlify.app
+https://radiant-brigadeiros-86ee4d.netlify.app
+https://radiant-brigadeiros-86ee4d.netlify.app
+https://radiant-brigadeiros-86ee4d.netlify.app
 
 This template should help get you started developing with Vue 3 in Vite.
 
