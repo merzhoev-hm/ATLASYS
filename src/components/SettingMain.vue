@@ -3,7 +3,7 @@
 <template>
   <div class="mt-[55px] flex flex-col mobile:flex-row gap-14">
     <div class="relative min-w-[130px] max-h-[130px] flex justify-center">
-      <a href="" class="absolute bottom-4 right-[80px] mobile:right-0">
+      <a href="" class="absolute bottom-4 right-[120px] mobile:right-0">
         <img class="" src="/public/Group 194.svg" alt="" />
       </a>
       <img
