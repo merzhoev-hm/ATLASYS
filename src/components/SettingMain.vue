@@ -2,15 +2,17 @@
 
 <template>
   <div class="mt-[55px] flex flex-col mobile:flex-row gap-14">
-    <div class="relative min-w-[130px] max-h-[130px] flex justify-center">
-      <a href="" class="absolute bottom-4 right-[120px] mobile:right-0">
-        <img class="" src="/public/Group 194.svg" alt="" />
-      </a>
-      <img
-        class="rounded-full"
-        src="/public/pexels-christina-morillo-1181690 1 (1).png"
-        alt=""
-      />
+    <div class="min-w-[130px] max-h-[130px] flex justify-center">
+      <div class="max-w-[130px] relative">
+        <a href="" class="absolute bottom-4 right-0">
+          <img class="" src="/Group 194.svg" alt="" />
+        </a>
+        <img
+          class="rounded-full max-w-[130px] max-h-[130px]"
+          src="/pexels-christina-morillo-1181690 1 (1).png"
+          alt=""
+        />
+      </div>
     </div>
     <form class="flex flex-wrap gap-[29px] text-[#232323] text-[16px]">
       <div class="flex flex-col">
@@ -57,11 +59,7 @@
           id="dob"
           placeholder="1990-01-25"
         />
-        <img
-          class="w-3 absolute right-5 bottom-5"
-          src="/public/Vector 4.svg"
-          alt=""
-        />
+        <img class="w-3 absolute right-5 bottom-5" src="/Vector 4.svg" alt="" />
       </div>
       <div class="flex flex-col">
         <label for="present-address">Present Address</label>

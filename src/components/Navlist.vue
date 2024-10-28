@@ -4,49 +4,49 @@
   <ul class="navList flex flex-col gap-10">
     <li>
       <a class="flex pl-11 hover:text-[#1814F3]" href="#">
-        <img src="/public/home 2.svg" alt="home" />
+        <img src="/home 2.svg" alt="home" />
         <p class="ml-6">Dashboard</p></a
       >
     </li>
     <li>
       <a class="flex pl-11 hover:text-[#1814F3]" href="#">
-        <img src="/public/transfer 1.svg" alt="transfer" />
+        <img src="/transfer 1.svg" alt="transfer" />
         <p class="ml-6">Transactions</p></a
       >
     </li>
     <li>
       <a class="flex pl-11 hover:text-[#1814F3]" href="#">
-        <img src="/public/user 3 1.svg" alt="user" />
+        <img src="/user 3 1.svg" alt="user" />
         <p class="ml-6">Accounts</p></a
       >
     </li>
     <li>
       <a class="flex pl-11 hover:text-[#1814F3]" href="#">
-        <img src="/public/economic-investment 1.svg" alt="invest" />
+        <img src="/economic-investment 1.svg" alt="invest" />
         <p class="ml-6">Investments</p></a
       >
     </li>
     <li>
       <a class="flex pl-11 hover:text-[#1814F3]" href="#">
-        <img src="/public/credit-card 1.svg" alt="credcards" />
+        <img src="/credit-card 1.svg" alt="credcards" />
         <p class="ml-6">Credit Cards</p></a
       >
     </li>
     <li>
       <a class="flex pl-11 hover:text-[#1814F3]" href="#">
-        <img src="/public/loan 1.svg" alt="loan" />
+        <img src="/loan 1.svg" alt="loan" />
         <p class="ml-6">Loans</p></a
       >
     </li>
     <li>
       <a class="flex pl-11 hover:text-[#1814F3]" href="#">
-        <img src="/public/service 1.svg" alt="service" />
+        <img src="/service 1.svg" alt="service" />
         <p class="ml-6">Services</p></a
       >
     </li>
     <li>
       <a class="flex pl-11 hover:text-[#1814F3]" href="#">
-        <img src="/public/econometrics 1.svg" alt="privileges" />
+        <img src="/econometrics 1.svg" alt="privileges" />
         <p class="ml-6">My Privileges</p></a
       >
     </li>
@@ -54,7 +54,7 @@
       <a class="flex pl-11 hover:text-[#1814F3]" href="#">
         <span class="active_navitem"></span>
 
-        <img class="" src="/public/settings solid 1.svg" alt="setting" />
+        <img class="" src="/settings solid 1.svg" alt="setting" />
         <p class="ml-6">Setting</p>
       </a>
     </li>

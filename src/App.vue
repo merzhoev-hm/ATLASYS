@@ -7,8 +7,8 @@ import Setting from './views/Setting.vue'
 <template>
   <div class="max-w-[1440px] mx-auto">
     <div class="flex">
-      <Navbar class="hidden mobile:block" />
-      <div class="">
+      <Navbar class="" />
+      <div>
         <Header />
         <Setting />
       </div>

@@ -2,8 +2,10 @@
 export default {
   content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
-    screens: {
-      mobile: '400px',
+    extend: {
+      screens: {
+        mobile: '400px',
+      },
     },
   },
   plugins: [],
