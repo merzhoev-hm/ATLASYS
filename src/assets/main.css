@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: rgba(245, 247, 250, 1);
+}
+
+.logo {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 31.95px;
+  text-align: left;
+  color: rgba(52, 60, 106, 1);
+}
+
+.navList {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.78px;
+  text-align: left;
+  color: rgba(177, 177, 177, 1);
+}
+
+@layer components {
+  .profile__input {
+    @apply mobile:w-[420px] py-3 px-7 rounded-[15px] border border-[#DFEAF2] outline-none placeholder:text-[#718EBF] hover:border-[#1814f3] focus:border-[#1814f3];
+  }
+}
