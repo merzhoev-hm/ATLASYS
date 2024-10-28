@@ -28,6 +28,6 @@ body {
 
 @layer components {
   .profile__input {
-    @apply mobile:w-[420px] py-3 px-7 rounded-[15px] border border-[#DFEAF2] outline-none placeholder:text-[#718EBF] hover:border-[#1814f3] focus:border-[#1814f3];
+    @apply w-screen mobile:w-[420px] py-3 px-7 rounded-[15px] border border-[#DFEAF2] outline-none placeholder:text-[#718EBF] hover:border-[#1814f3] focus:border-[#1814f3];
   }
 }
